@@ -32,7 +32,7 @@
         <guava.version>14.0.1</guava.version>
         <jackson.version>2.2.3</jackson.version>
         <guava.version>17.0</guava.version>
-        <xstream_version>1.4.7</xstream_version>
+        <xstream_version>1.4.20</xstream_version>
         <validation_version>1.0.0.GA</validation_version>
         <shiro.version>1.2.2</shiro.version>
         <ehcache.version>2.6.6</ehcache.version>
