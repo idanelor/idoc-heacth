@@ -42,7 +42,7 @@
         <validator.version>5.1.1.Final</validator.version>
         <mybatis.version>3.2.8</mybatis.version>
         <mybatis-spring.version>1.2.2</mybatis-spring.version>
-        <jetty.version>9.2.0.v20140526</jetty.version>
+        <jetty.version>9.4.52.v20230823</jetty.version>
         <jetty_version>6.1.26</jetty_version>
         <hibernate.jpa.version>1.0.1.Final</hibernate.jpa.version>
         <slf4j_version>1.7.7</slf4j_version>
